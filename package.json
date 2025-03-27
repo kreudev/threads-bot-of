@@ -1,0 +1,14 @@
+{
+  "name": "threads-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bot para publicar en Threads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
